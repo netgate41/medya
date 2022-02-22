@@ -1,0 +1,295 @@
+﻿#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", A HABER RADYO
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", A PARA RADYO
+https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", A NEWS RADYO
+https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", A SPOR RADYO
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ACIPAYAM GURBETCi FM
+https://wowza1.radyotvonline.com/shoutcast/gurbetcifm.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", AKRA FM
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", AKUSTiKLAND
+https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ARABESK MELODI FM
+http://arabeskmelodi.kesintisizyayin.com:8888/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ARABESK RADYO BIZ
+http://dinle.arabeskradyo.biz:2011/;
+#EXTINF:0 type="stream" channelId="3954" group="40_TURK_RADYO_KANALLAR", ALEM FM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3954" group="40_TURK_RADYO_KANALLAR", ALEM FM YEDEK
+http://scturkmedya.radyotvonline.com/stream/80/
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ALTIN SARKILAR
+https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ANKARA HAVALARI
+https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ARABESKLAND
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ARDAHAN FM
+http://95.173.161.131:9788/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", BABA RADYO
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", BABYLAND RADYO
+https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", BEST FM
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", BEST FM YEDEK
+https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", CLASSICLAND FM
+https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DOKSANLAR FM
+https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DANCELAND FM
+https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DISCOLAND FM
+https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYOLAN DOKSANLAR
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DiJiTAL RADYO FM
+http://yayin.liderhost.net:9406/DiJiTAL
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DiYANET KURAN RADYO
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DiYANET RADYO FM
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DiYANET RiSALET RADYO FM
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", EASYLAND FM
+https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", EFSANE DORTLU
+https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", EGE HAVALARI
+https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", FLOW FM
+https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", GARAJ RADYO
+http://ssl3.radyotvonline.com/radyoland/garajradyo.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", GREEKLAND
+https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", HOME KLASiK FM
+https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", HOUSELAND FM
+https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", JAZZLAND FM
+https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KRAL FM
+http://kralwmp.radyotvonline.com:80/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KRAL POP RADYO
+http://kralpopwmp.radyotvonline.com:80/;?type=mp3?
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KAFA RADYO
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KARDELEN FM
+http://dinle.kardelenfm.com:2000/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KARADENiZ FM
+https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KARADENiZ FM YEDEK
+https://wowza1.radyotvonline.com/unitedmedia/karadenizfm.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KENT FM
+https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KLASiK HOME
+https://moondigitalmaster.radyotvonline.net/klasikhome/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", LiG RADYO
+https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", MAZiDEN BiR DEMET RADYO
+https://moondigitalmaster.radyotvonline.net/mazidenbirdemet/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", MELENKOLiK HOME FM
+https://moondigitalmaster.radyotvonline.net/melankolikhome/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", MERSiN FM
+http://broadcasttr.com:1935/tepemedya/mersinfm.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", MUZEYYEN FM
+http://46.20.4.34/radyoland/muzeyyen.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", MUZEYYEN FM YEDEK
+https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", NTV RADYO
+http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", NTV RADYO YEDEK
+https://rto.turkhosted.com/smil/smil:ntvradyo.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", PAL DOGA FM
+https://ssl4.radyotvonline.com/radyohome/paldogahome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", PAL FM
+https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", PAL FM YEDEK
+https://ssl4.radyotvonline.com/radyohome/palfmhome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", PAL NOSTALJi FM
+https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", PAL NOSTALJi YEDEK
+https://ssl4.radyotvonline.com/radyohome/palnostaljihome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POP HOME
+https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POP HOME YEDEK
+https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POPLAND
+https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER FM
+https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER POP
+https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER LOVE
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER GOLD
+https://listen.powerapp.com.tr/powergold/abr/powergold/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER DANCE
+https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER DEEP
+https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER GREECE
+https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER PLUS
+https://listen.powerapp.com.tr/powerplus/abr/powerplus/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER SMOOTH JAZZ
+https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER XL
+https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWERTURK AKUSTiK
+https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWERTURK DANS
+https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWERTURK EN iYiLER
+https://listen.powerapp.com.tr/powerturkeniyiler/abr/powerturkeniyiler/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWERTURK FM
+https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWERTURK RAP
+https://listen.powerapp.com.tr/powerturkrap/abr/powerturkrap/128/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO 7
+http://radyo7hls.radyotvonline.net/radyo7/radyo7_test.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO 7 YEDEK
+https://ssl4.radyotvonline.com/radyo7/radyo7_home.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO FENERBAHCE
+https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO GOL
+https://moondigitalmaster.radyotvonline.net/radyogol/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO SiS
+http://185.83.145.228:8000/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO SOFT
+https://trkvz-radyolar.ercdn.net/radyosoft/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO SPOR
+https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO TRAFiK
+https://ssl4.radyotvonline.com/radyohome/radyotrafikhome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO TURKUVAZ
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO VOKAL
+https://moondigitalmaster.radyotvonline.net/radyovokal/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2251" group="40_TURK_RADYO_KANALLAR", RADYO ViVA
+https://ssl4.radyotvonline.com/radyohome/radyovivahome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO HAZAR
+http://radyohazar.canliyayinda.com:8286/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO FM 23
+http://radyofm23.canliyayinda.com:8280/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO ANADOLU
+http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO 38
+http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO TATLISES
+http://37.247.100.118:80/stream/68/
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO FENERBAHCE
+http://91.232.174.18:8000/Stream
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO 34
+http://yayin1.canliyayin.org:7424/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO ROMANTiK
+http://live5.radyotvonline.com:8010/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO MODA
+http://yayin.radyomoda.com.tr/;
+#EXTINF:0 type="stream" channelId="1048" group="40_TURK_RADYO_KANALLAR", RADYO NTVSPOR
+http://yayin1.canliyayin.org:7424/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RAP HOME
+https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RELAX HOME
+https://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ROCKLAND
+http://46.20.4.34/radyoland/rockland.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ROCKLAND
+https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", SEMERKAND RADYO
+https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2965" group="40_TURK_RADYO_KANALLAR", SHOW RADYO
+http://windows.showradyo.com.tr/;
+#EXTINF:0 type="stream" channelId="2965" group="40_TURK_RADYO_KANALLAR", SHOW RADYO
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2965" group="40_TURK_RADYO_KANALLAR", SHOW RADYO YEDEK 3
+https://ssl4.radyotvonline.com/radyohome/showradyohome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", SLOW HOME
+https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", SLOW TiME
+https://moondigitalmaster.radyotvonline.net/slowtime/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TEZENE
+https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TGRT FM
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", THE ROCK RADiO
+https://moondigitalmaster.radyotvonline.net/therockradio/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKUVAZ ANADOLU
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKUVAZ EFSANE
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKUVAZ MUSiKi
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKUVAZ NOSTALJi
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKUVAZ ROMANTiK
+https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKLAND
+http://46.20.4.34/radyoland/turkland.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKLAND
+https://moondigitaledge.radyotvonline.net/turkland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKULERLE TURKiYE
+https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", VAV RADYO
+https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", WORLD HiTS
+https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", YOZGAT SURMELI FM
+http://surmelifm.kesintisizyayin.com:8590/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ZENLAND FM
+http://46.20.4.34/radyoland/zenland.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ZENLAND FM YEDEK
+https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", BURSA FM
+http://yayin.bursafm.com.tr:1055/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", CEMRE FM
+http://yayin1.canliyayin.org:8024/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DAMAR FM
+http://yayin.damarfm.com:8080/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DERYA FM
+http://nonstopkonya.canliyayinda.com:9898/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DOST FM
+http://yayin.dostfm.com:8920/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", EREGLi CAN RADYO
+http://51.255.7.120:9988/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ENDERUN FM
+http://yayin2.canliyayin.org:7052/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ISTANBUL FM
+http://45.32.154.169:9300/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", SLOW KARADENIZ FM
+http://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TURKU RADYO
+http://radyo.turkuradyo.net:4591/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DUZCE KENT FM
+http://duzcekentfm.canliyayinda.com:8012/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", EZGi FM
+http://yayin.yayindakiler.com:3044/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KONYA NET FM
+http://yayin2.yayindakiler.com:4032/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", LULEBURGAZ FM
+http://yayin.netyayin.net:3439/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", MARMARA FM
+http://marmarafm.canliyayinda.com:8008/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYO ATILIM
+https://listen.powerapp.com.tr/radyoatilim/mpeg/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", PARK FM
+http://yayin.netradyom.com:8050/PARKFM
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", SEYDiSEHiR FM
+http://radyo.yayin.com.tr:5894/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", SORGUN FM
+http://radyovetv.com:8001/;
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TRT FM
+https://ssl4.radyotvonline.com/radyohome/trtfm.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TRT NAGME
+https://ssl4.radyotvonline.com/radyohome/trtnagme.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TRT RADYO 1
+https://ssl4.radyotvonline.com/radyohome/trtradyo1.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TRT TURKU
+https://ssl4.radyotvonline.com/radyohome/trtturku.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", TOKAT OZLEM FM
+http://yayin.turkiletisim.com.tr:1080/;
