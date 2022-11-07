@@ -28,8 +28,6 @@ https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 type="stream" channelId="3119" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/show_turk.png", SHOWTURK 
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-#EXTINF:0 type="stream" channelId="4632" group="1_ULUSAL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/f/np/13872/Thumbnail.png?v=636996545585843191", SHOWMAX 
-http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3040" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-NPNeFZp5Vkg/YI3ePZmi9uI/AAAAAAAATRU/Qkq8zk5iY1sbN3qU90TEepItuP7_rGomACLcBGAsYHQ/s0/TEVE2.png", TEVE 2 
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 type="stream" channelId="978" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-6h-LT1zzUgI/YI3eN15h1XI/AAAAAAAATQw/hl9keKfUXjw5592EEp17PIMxBxMDOGh3QCLcBGAsYHQ/s0/DMAX%2B-%2BKopya.png", D MAX 
@@ -70,8 +68,6 @@ http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1JMqpVOeaivvJAOeiWh6wtYxUN8YDhbXrdGEiMovjQhyjjl6uP6lmW32TVZ_5iFnecTab-xLV9X0I4aXZ8zx7m96vRcuCKSntD6egotZaTQ2SAEX9WzMVWgqUINxucIVvBDWpxIlkoMp2ugZh9vSNjTCMmqxTk3Mo5xhsSYYg2yNt_NcESXz9x2LWsQ=w93-h50", YAREN TV
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjm92BqFmF8X6RsAtZNWXXIEs3utdmrcOaHqVzHZWIjRqoFzoQjDSVsSfHALJFhWagoh3tTS1PGShqSZZmDbYr99RS5HVzQVxh7muokTFsBjbmKxP-QFROfd6B1GADONczrY0plw4nDyRtRlfiRtoxsEk_rPybJMDdQQqqzEuK-p_P9z_F057UyISYlvg=w89-h54", OZBURUN TV 
-http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1163224813.m3u8
 #EXTINF:0 type="stream" channelId="1059" group="4_COCUK_TV_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_cocuk.png", TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="4_COCUK_TV_KANALLAR" logo="https://1.bp.blogspot.com/-yq_nB0mEL6E/X4Bv6pQyHzI/AAAAAAAAPP0/_kLGyXfb2wgjLauyA6KUydNchjXfp0GtACLcBGAsYHQ/s0/ebailkokul.png", EBA iLKOKUL
@@ -240,3 +236,4 @@ https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8 
 #EXTINF:0 type="stream" channelId="-1" group="9_GENEL_ICERIK_YASAM_EGLENCE" logo="https://blogger.googleusercontent.com/img/a/AVvXsEibKiv808r7TCYXMw7L9lYTFaaT9lrfTPpNMsx-HPnCFovzVkZbKDmuBoguRy9hykg9HKjUPAEwwle_jPToZaccwg9sPxUHlnAxMGQ7otZmKDZe_FO9j3bI1H-OBfkeKQ2moX4SdojQyXQRHWRtYT3S1f-Udjx66WKINOhZWS3OWESJNPW6334o2WSB=s124", WOMAN TV 
 http://s01.vpis.io/wmtv/wmtv.m3u8
+
