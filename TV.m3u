@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 type="stream" channelId="1056" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQN_wACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT 1
-https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/d1882110-c9a8-418a-a181-339e2d2f7b98/0.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="4003" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_2.png", TRT 2
 http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="4003" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_turk.png", TRT TURK
@@ -38,8 +38,10 @@ https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/halk_tv.png", HALK TV 
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF:0 type="stream" channelId="1125" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.kivilcimhaber.com.tr/wp-content/uploads/2019/08/ulusalkanal2.png", ULUSAL KANAL 
+#EXTINF:0 type="stream" channelId="1125" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.kivilcimhaber.com.tr/wp-content/uploads/2019/08/ulusalkanal2.png", ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/super_tv.jpg", SUPERTURK TV
+http://64.225.99.57:3923/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="3092" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://upload.wikimedia.org/wikipedia/tr/1/1b/TRT_Belgesel_logosu_%282009-2015%29.png", TRT BELGESEL 
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673", TGRT BELGESEL
@@ -51,7 +53,9 @@ http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="http://cinemidi.com/wp-content/uploads/2022/01/Cinemidi-beyaz.jpg", CiNEMiDi TV 
 https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/ntn.png", NTV YESILCAM
-https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8 
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/baskan_tv.png", BASKAN TV
+http://91.134.203.253:30124/baskantv/baskantv/supersatforum_chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-sysOAwP1qyc/X2jF-YU8iuI/AAAAAAAAO1E/xEtBiocvA0g97px8TxB0-OPMywVwp_09wCLcBGAsYHQ/s320/isttv.png", iSTANBUL TV 
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-b3mvojhDEc4/YG9RQFDMlBI/AAAAAAAASfc/nJNsF9CIuXclZ5aRneCRcJhTZ6Kh1H5XgCLcBGAsYHQ/s250/NPgSgYm.png", KANAL iSTANBUL 
