@@ -40,14 +40,10 @@ https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/sozcu_tv.png", SOZCU TV
 http://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/super_tv.jpg", SUPERTURK TV
-http://64.225.99.57:3923/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="3092" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://upload.wikimedia.org/wikipedia/tr/1/1b/TRT_Belgesel_logosu_%282009-2015%29.png", TRT BELGESEL 
-https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673", TGRT BELGESEL
-https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/ntn.png?v=636948475190522673", NTN DISCOVERY
-https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
+http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://1.bp.blogspot.com/-Pipv47he75Y/X0Dv5p0vQgI/AAAAAAAAOac/bFNg6ZBSojIPE69nSUfrYPDWrvQis4HhgCLcBGAsYHQ/s0/Yabantv_logo.png", YABAN TV 
 https://yayin1.canlitv.day/live1/yabantv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="http://cinemidi.com/wp-content/uploads/2022/01/Cinemidi-beyaz.jpg", CiNEMiDi TV 
