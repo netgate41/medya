@@ -122,6 +122,8 @@ http://tjktv.ercdn.net/tjktv.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="1050" group="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png", KRAL POP TV 
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0 type="stream" channelId="1050" group="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/teleon.png", TELEON 
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8
 #EXTINF:0 type="stream" channelId="1046" group="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da824", POWER TURK
 https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2556.png?v=619", POWER DANCE 
@@ -154,5 +156,15 @@ http://tv56245.ozelip.com:2052/tvoncu/tvoncu/playlist.m3u8
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="9_GENEL_ICERIK_YASAM_EGLENCE" logo="https://blogger.googleusercontent.com/img/a/AVvXsEibKiv808r7TCYXMw7L9lYTFaaT9lrfTPpNMsx-HPnCFovzVkZbKDmuBoguRy9hykg9HKjUPAEwwle_jPToZaccwg9sPxUHlnAxMGQ7otZmKDZe_FO9j3bI1H-OBfkeKQ2moX4SdojQyXQRHWRtYT3S1f-Udjx66WKINOhZWS3OWESJNPW6334o2WSB=s124", WOMAN TV 
 http://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/cire1.png" ,CINE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/cine_5.png" ,CINE5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/clc.png" ,CLC TV
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/sunal_tv.png" ,KEMAL SUNAL TV
+http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/aktif_tv.png" ,AKTIF TV
+http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/bumerang.png" ,BUMERANG CARTOONITO
 http://195.230.27.108:8003/play/a00t/index.m3u8
