@@ -13,17 +13,17 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:0 type="stream" channelId="3077" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D 
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:0 type="stream" channelId="3077" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/atv.png", ATV
-https://ecanlitv3.etvserver.com/atv.m3u8?tkn=fzEHc9pLD4sSegscSkZN0w&tms=1706542211
-#EXTINF:0 type="stream" channelId="208" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV 
+http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:0 type="stream" channelId="208" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/now.png", NOW 
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/tv_8.5.png", TV 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:0 type="stream" channelId="1076" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/a_2.png", A2
+http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:0 type="stream" channelId="1941" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
-#EXTINF:0 type="stream" channelId="3991" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_avaz.jpg", TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="18" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV 
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #EXTINF:0 type="stream" channelId="3983" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-9T4mNgfkgOY/YI3eM_KXKxI/AAAAAAAATQg/7C2JZ7Vklo4xVFtWmAl8bpqLiUnDpMrIQCLcBGAsYHQ/s0/360%2B-%2BKopya.png", 360 TV 
@@ -34,7 +34,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:0 type="stream" channelId="3040" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-NPNeFZp5Vkg/YI3ePZmi9uI/AAAAAAAATRU/Qkq8zk5iY1sbN3qU90TEepItuP7_rGomACLcBGAsYHQ/s0/TEVE2.png", TEVE 2 
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:0 type="stream" channelId="978" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/d_max.png", D MAX 
+#EXTINF:0 type="stream" channelId="978" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/dmax.png", D MAX 
 https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1040" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/tlc.png", TLC 
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
@@ -42,6 +42,10 @@ https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/sozcu_tv.png", SOZCU TV
 http://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+#EXTINF:0 type="stream" channelId="3991" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_world.png", TRT WORLD
+http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="3991" group="1_ULUSAL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_avaz.jpg", TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="3092" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://upload.wikimedia.org/wikipedia/tr/1/1b/TRT_Belgesel_logosu_%282009-2015%29.png", TRT BELGESEL 
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="3_ULUSAL_BELGESEL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673", TGRT BELGESEL
@@ -60,12 +64,8 @@ http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1059" group="4_COCUK_TV_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_cocuk.png", TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="4_COCUK_TV_KANALLAR" logo="https://1.bp.blogspot.com/-yq_nB0mEL6E/X4Bv6pQyHzI/AAAAAAAAPP0/_kLGyXfb2wgjLauyA6KUydNchjXfp0GtACLcBGAsYHQ/s0/ebailkokul.png", EBA iLKOKUL
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="4_COCUK_TV_KANALLAR" logo="https://1.bp.blogspot.com/-zwjIfMve2mQ/X4Bv6kgHPJI/AAAAAAAAPPw/XUi-HUVFkgIbCS4LmDRKSyubNUodCRu3wCLcBGAsYHQ/s0/ebaortakul.png", EBA ORTAOKUL
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="4_COCUK_TV_KANALLAR" logo="https://1.bp.blogspot.com/-LNRjdo4gJ-w/X4Bv6hAv_FI/AAAAAAAAPPs/DMRe3SvjfvoU_EAzDSmVMlS0WSkCChFGQCLcBGAsYHQ/s0/ebalise.png", EBA LiSE
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="4_COCUK_TV_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_eba.png", TRT EBA
+http://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="1078" group="5_YEREL_KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/tv_41.png", TV 41 KOCAELİ
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/supersatforum_chunks.m3u8
 #EXTINF:0 type="stream" channelId="3080" group="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/trt_haber.png", TRT HABER 
