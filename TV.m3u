@@ -10,7 +10,7 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:1 tvg-id="Fox.tr" tvg-logo="https://raw.githubusercontent.com/netgate41/tv_logos/main/now.png" group-title="Ulusal",NOW TV
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+http://stream.tvcdn.net/ulusal/fox-tv.m3u8
 #EXTINF:1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",KANAL 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
@@ -53,9 +53,9 @@ http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 http://stream.tvcdn.net/haber/tele-1.m3u8
 #EXTINF:1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
 http://stream.tvcdn.net/haber/tvnet.m3u8
-#EXTINF:1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Haber",FLASH Haber
+#EXTINF:1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Haber",FLASH HABER
 http://stream.tvcdn.net/haber/flash-haber.m3u8
-#EXTINF:1 tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",ULUSAL Kanal
+#EXTINF:1 tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",ULUSAL KANAL
 http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 #EXTINF:1 tvg-id="BenguturkTV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="Haber",BENGÜTÜRK TV
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
@@ -191,8 +191,12 @@ http://stream.tvcdn.net/diger/woman-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Film",CİNE5 TV
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e3e7aa36-1705-4300-bfa5-f347cd28f93a.jpeg" group-title="Film",NTN HD
-http://stream.tvcdn.net/diger-eglence/ntn-hd.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Film",YEŞİLÇAM TV 1
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-2.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Film",YEŞİLÇAM TV 2
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Film",YEŞİLÇAM TV 3
+http://stream.tvcdn.net/diger-eglence/turk-filmleri.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1f23a3b4-a964-4c8f-8234-373ed11b2c17.png" group-title="Film",SKY TV
 http://stream.tvcdn.net/diger-eglence/sky-haber-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="Film",KEMAL SUNAL TV 1
