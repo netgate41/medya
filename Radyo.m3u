@@ -25,30 +25,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3
 https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ANKARA HAVALARI
 https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", ARABESKLAND
-https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", BABA RADYO
 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", AKUSTiKLAND
-https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", CLASSICLAND FM
-https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DOKSANLAR FM
 https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DANCELAND FM
-https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", DISCOLAND FM
-https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", RADYOLAN DOKSANLAR
-https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", GREEKLAND
-https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", HOME KLASiK FM
 https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", HOUSELAND FM
-https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", JAZZLAND FM
-https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", KARADENiZ FM
 https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", PAL FM
@@ -57,8 +39,6 @@ https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
 https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POP HOME
 https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POPLAND
-https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER POP
 https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="40_TURK_RADYO_KANALLAR", POWER LOVE
