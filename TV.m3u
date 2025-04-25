@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
@@ -13,7 +11,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr" group-title="6. |TR|🇹🇷 ULUSAL GENEL",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=ulKflFHL__s4tt6JJbjtSQ&e=1745490089
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
