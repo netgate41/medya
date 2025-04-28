@@ -83,7 +83,7 @@ https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 group-title="3. |TR|🇹🇷 BELGESEL" tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="5. |TR|🇹🇷 BELGESEL" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" ,CGTN BELGESEL
+#EXTINF:-1 group-title="3. |TR|🇹🇷 BELGESEL" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" ,CGTN BELGESEL
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 group-title="4. |TR|🇹🇷 SPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" ,TRT SPOR
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
