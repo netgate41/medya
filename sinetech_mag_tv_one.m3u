@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:clock-synchro=0
-#EXTVLCOPT:clock-jitter=500
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=000000&extension=ts&play_token=LkjJLv2sz0
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="┃TR┃ ULUSAL",┃TR┃ TRT 1 HD
