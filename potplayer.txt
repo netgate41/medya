@@ -1,1 +1,1 @@
-http://izlego.eu/m3u_app/get.php?username=grup&password=bizimtv&type=m3u_plus&output=m3u8
+https://raw.githubusercontent.com/netgate41/medya/refs/heads/main/sinetech_mag_tv_one.m3u
