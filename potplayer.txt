@@ -1,1 +1,1 @@
-http://izlego.eu/m3u_app/get.php?username=grup&password=bizimtv&type=m3u_plus&output=m3u8
+https://m3u.ch/pl/54f8d617986a5c197deedb629dcaa838_7fd8a9bff704eee501a9914b07825a14.m3u
