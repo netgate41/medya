@@ -1,7 +1,6 @@
 #EXTM3U
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=000000&extension=ts&play_token=LkjJLv2sz0
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="┃TR┃ ULUSAL",┃TR┃ TRT 1 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=196715&extension=ts&play_token=aTmHKjHujY
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=196715&extension=ts&play_token=aTmHKjHujY
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title="┃TR┃ ULUSAL",┃TR┃ ATV HD
